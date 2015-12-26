@@ -76,6 +76,13 @@ social:
 
 disqus_shortname: iymx
 
+# hexo sitemap网站地图
+sitemap:
+path: sitemap.xml
+baidusitemap:
+path: baidusitemap.xml
+
+
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:

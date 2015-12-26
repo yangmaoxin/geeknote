@@ -38,7 +38,7 @@ comments: false
 
 ### 联系
 
-- [博客：geeknote.xyz](geeknote.xyz)
+- [博客：igeek.wang](http://igeek.wang)
 
 - [微博@Y先生没有名字](http://weibo.com/349873)
 
