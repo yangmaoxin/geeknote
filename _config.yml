@@ -95,4 +95,4 @@ deploy:
   message: ""
   repo: 
     github: git@github.com:yangmaoxin/yangmaoxin.github.io.git,master
-    gitcafe: git@gitcafe.com:ymx/ymx.git,gitcafe-pages
+    # gitcafe: git@gitcafe.com:ymx/ymx.git,gitcafe-pages
