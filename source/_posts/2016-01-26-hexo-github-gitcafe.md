@@ -1,6 +1,6 @@
 title: 把Hexo同时部署到GitHub和GitCafe
 date: 2016-01-26 10:41:48
-categories: 学习笔记
+categories: 教程
 tags: [hexo]
 ---
 ## 尝试

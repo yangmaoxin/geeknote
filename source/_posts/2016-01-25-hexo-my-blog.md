@@ -1,6 +1,6 @@
-title: Hexo+Github，搭建属于自己的博客（持续更新）
+title: Hexo+Github，搭建属于自己的博客
 date: 2016-01-25 12:14:06
-categories: 学习笔记
+categories: 教程
 tags: [hexo]
 ---
 ## 前言

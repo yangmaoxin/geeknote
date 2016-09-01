@@ -1,13 +1,10 @@
-title: automatic-backup
+title: 自动备份与恢复Hexo博客源文件
 date: 2016-09-01 12:08:51
 categories: 教程
 tags: [hexo]
 ---
 <blockquote class="blockquote-center">此文记录自动备份Hexo博客源文件到Github，并且从Github恢复到新电脑的过程。</blockquote>
 <!--more-->
-原文出自：
-1. [自动备份Hexo博客源文件][1] (原博主网站已经无法打开)
-2. [自动备份Hexo博客源文件][2]
 
 # 自动备份Hexo博客源文件
 ## 原理
@@ -157,7 +154,17 @@ hexo server
 查看本地同步效果，访问localhost:4000
 
 注意：
->这里不会备份hexo主题文件
+**这里不会备份hexo主题文件**
+
+更新历史
+
+* 2016年9月1日 13:30 增加恢复Hexo博客源文件
+
+
+> 参考阅读
+> 
+> * [自动备份Hexo博客源文件][1] (原博主网站已经无法打开)
+> * [自动备份Hexo博客源文件][2]
 
 
   [1]: http://notes.xiamo.tk
