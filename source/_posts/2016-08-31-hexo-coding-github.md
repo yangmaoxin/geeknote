@@ -1,6 +1,6 @@
 title: 把Hexo同时部署到GitHub和Coding
 date: 2016-08-31 20:15:54
-categories: 学习笔记
+categories: 教程
 tags: [hexo]
 ---
 <blockquote class="blockquote-center">因为Gitcafe已经被Coding收购，修改同时更新到Github以及Coding。</blockquote>
