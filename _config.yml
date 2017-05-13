@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 一个前端菜鸟的成长笔记
-subtitle:
+title: y1m7x's Blog
+subtitle: 一个前端菜鸟的成长笔记
 description: 人总需要点什么来坚持下去。或是希望，或是信仰。我和这个世界不熟，但我怀有期待。
-author: MX.Yang
-language: zh-Hans
+author: y1m7x
+language: zh-CN
 timezone:
 avatar: http://7xp8kh.com1.z0.glb.clouddn.com/touxiang14257483.jpg
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yangmaoxin.github.io
+url: http://igeek.wang
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -64,7 +64,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: next
+theme: indigo
 
 # Social links
 social:
