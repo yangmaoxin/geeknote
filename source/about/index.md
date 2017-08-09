@@ -1,45 +1,67 @@
-title: about
-date: 2015-12-21 20:10:34
-comments: false
----
+layout: page      # 必须
+title: 关于我  # 必须，页面名称
+description: 正在建设中...       # 页面二级标题，描述性文字
+comments: false     # 禁用评论，可选，默认开启
+reward: false       # 禁用打赏，可选，默认开启
+----
+<BLOCKQUOTE>人总需要点什么来坚持下去。或是希望，或是信仰。我和这个世界不熟，但我怀有期待。</BLOCKQUOTE>
 
 
-<blockquote class="blockquote-center">感谢生命，让我睁开了眼睛</blockquote>
-<center>
-<p><img src="http://7xp8kh.com1.z0.glb.clouddn.com/touxiang14257483.jpg" align="center"></p>
-</center>
+@card{
 
-### 关于 MX.Yang
-一个初入前端行业的菜鸟一枚。
-技术控、数码控、视觉控、爱各种电子产品。
-伪极客，伪文艺青年。
+这里是我的技术博客。
+仰慕「优雅编码的艺术」。
 
-> 人总需要点什么来坚持下去。或是希望，或是信仰。我和这个世界不熟，但我怀有期待。
+}
 
-### 坚信
-- 生命不息，折腾不止。
-- 努力提升自己，成为一个有故事的人。
-- 我所经历的都是上天为我独家安排的。
+<h2>About</h2>
 
-### 尝试
-- 我想做有趣的事
-- 成为有故事的人
+@column-2{
 
-### MY.Yang's Blog
+@card{
 
-随笔&&技术Blog，希望用简单而清晰的写作方式Markdown分享自己的心得体会。
-使用Hexo，并部署在Github上的静态Blog。
+<BLOCKQUOTE>
+记录自己的学习与成长
+既要会做，也要能说，更要会写
+感悟人生，开拓眼界
+钻研技术，加深广度与深度
+</BLOCKQUOTE>
 
-### 其他
+}
 
-使用了[NexT][1]主题
-作者:iissnan
-  [1]: https://github.com/iissnan/hexo-theme-next
+@card{
 
-### 联系
+<BLOCKQUOTE>
+扁平化设计追求者
+不求影响他人，只愿不被这个世界所影响
+胸无大志，但有些小目标
+笑点较高，外人称之为冷
+</BLOCKQUOTE>
 
-- [博客：igeek.wang](http://igeek.wang)
+}
 
-- [微博@Y先生没有名字](http://weibo.com/349873)
+}
 
-- [知乎@Y先生没有名字](http://www.zhihu.com/people/iymx)
+<h2>Blog</h2>
+
+@timeline{
+
+##### 2017
+
+@item{
+###### 8月9日
+
+更换新主题，进行二次开发。
+
+}
+
+@item{
+###### 8月6日
+
+重建Hexo Blog，加强配置文件的多地备份。
+
+}
+
+}
+
+
